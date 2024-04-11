@@ -34,4 +34,11 @@ public class SkyscraperSpawner : MonoBehaviour {
 			yield return new WaitForSeconds(Random.Range(1, 5));
 		}
 	}
+
+    public void ResetSkyscraperScrollSpeed()
+    {
+        speed = 10f; 
+        StopAllCoroutines();
+        StartCoroutine(SpawnSkyscrapers()); 
+    }
 }

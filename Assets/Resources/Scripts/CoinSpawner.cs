@@ -32,4 +32,9 @@ public class CoinSpawner : MonoBehaviour {
 			yield return new WaitForSeconds(Random.Range(1, 5));
 		}
 	}
+    public void ResetCoinSpawnSpeed()
+    {
+        StopAllCoroutines(); 
+        StartCoroutine(SpawnCoins()); 
+    }
 }

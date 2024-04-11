@@ -23,4 +23,10 @@ public class ScrollingBackground : MonoBehaviour {
 		// shown out of curiosity, in case this texture had an associated bump map
 		rend.material.SetTextureOffset("_BumpMap", new Vector2(offset, 0));
 	}
+
+    public void ResetScrollSpeed()
+    {
+        rend.material.SetTextureOffset("_MainTex", Vector2.zero);
+        rend.material.SetTextureOffset("_BumpMap", Vector2.zero);
+    }
 }

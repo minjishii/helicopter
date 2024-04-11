@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\assets\\resources\\scripts\\diaspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\diaspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|c:\\users\\fulya\\onedrive\\belgeler\\github\\helicopter\\assets\\resources\\scripts\\dia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\dia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\assets\\resources\\scripts\\helicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\helicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|c:\\users\\fulya\\onedrive\\belgeler\\github\\helicopter\\assets\\resources\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\assets\\resources\\scripts\\coinspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\coinspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\assets\\resources\\scripts\\gameovertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\gameovertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\assets\\resources\\scripts\\skyscraperspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\skyscraperspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\assets\\resources\\scripts\\scrollingbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F20FC21-1FAE-D07E-6564-5EEADC57DBBF}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\scrollingbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Coin.cs",
+              "ToolTip": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Coin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:52:12.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeliController.cs",
+              "DocumentMoniker": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\HeliController.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\HeliController.cs",
+              "ToolTip": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\HeliController.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\HeliController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:45:45.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dia.cs",
+              "DocumentMoniker": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\Dia.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Dia.cs",
+              "ToolTip": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\Dia.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Dia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:40:29.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiaSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\DiaSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\DiaSpawner.cs",
+              "ToolTip": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\DiaSpawner.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\DiaSpawner.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:02:20.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameOverText.cs",
+              "DocumentMoniker": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\GameOverText.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\GameOverText.cs",
+              "ToolTip": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\GameOverText.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\GameOverText.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:50:54.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SkyscraperSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\SkyscraperSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\SkyscraperSpawner.cs",
+              "ToolTip": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\SkyscraperSpawner.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\SkyscraperSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:18:14.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoinSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\CoinSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\CoinSpawner.cs",
+              "ToolTip": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\CoinSpawner.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\CoinSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:17:42.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScrollingBackground.cs",
+              "DocumentMoniker": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\ScrollingBackground.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\ScrollingBackground.cs",
+              "ToolTip": "C:\\Users\\fulya\\OneDrive\\Belgeler\\GitHub\\helicopter\\Assets\\Resources\\Scripts\\ScrollingBackground.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\ScrollingBackground.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:13:13.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
